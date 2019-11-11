@@ -1,0 +1,31 @@
+.btn-instagram {
+    background-color: #f70909 !important;
+}
+.btn-instagram:hover {
+    background-color: #ff5858 !important;
+}
+
+.btn-facebook {
+    background-color: #587ce2 !important;
+}
+.btn-facebook:hover {
+    background-color: #587ce2 !important;
+}
+
+.btn-whatsapp {
+    background-color: #009688 !important;
+}
+.btn-whatsapp:hover {
+    background-color: #0cb5a5 !important;
+}
+
+.btn-twitter {
+    background-color: #1da1f2 !important;
+}
+.btn-twitter:hover {
+    background-color: #35b0fb !important;
+}
+
+.btn, .navbar .navbar-nav > a.btn {
+    text-transform: none !important;
+}
